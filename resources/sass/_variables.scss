@@ -1,0 +1,58 @@
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$orange-site: #c39e42;
+// Bootstrap color
+$primary: $orange-site;
+$theme-colors: ("custom-color": #900);
+// Typography
+$fa-font-path: "/assets/fonts/fontawesome";
+$font-family-sans-serif: 'FritzQuadrataCyrillic',
+sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+// Body
+$body-bg: #040404;
+$body-color: $orange-site;
+//
+$link-color: $orange-site;
+// $link-hover-color: #c39e42;
+// $btn-link-disabled-color: $gray-600 !default;
+//
+$border-width: 1px !default;
+$border-color: $orange-site !default;
+$card-border-color: rgba($orange-site, 1) !default;
+// $card-inner-border-radius: subtract($card-border-radius, $card-border-width) !default;
+// $card-cap-bg: rgba($orange-site, .03) !default;
+// $card-cap-color: $orange-site !default;
+// $card-height: null !default;
+// $card-color: null !default;
+$card-bg: transparent !default;
+$popover-bg: $orange-site !default;
+// Body
+// $tooltip-font-size: $font-size-sm !default;
+// $tooltip-max-width: 200px !default;
+// $tooltip-color: $white !default;
+// $tooltip-bg: $black !default;
+// $tooltip-border-radius: $border-radius !default;
+// $tooltip-opacity: .9 !default;
+// $tooltip-padding-y: .25rem !default;
+// $tooltip-padding-x: .5rem !default;
+// $tooltip-margin: 0 !default;
+// $tooltip-arrow-color: $tooltip-bg !default;
+$navbar-dark-color: rgba($orange-site, 1) !default;
+$navbar-dark-hover-color: rgba($orange-site, .75) !default;
+$navbar-dark-active-color: $orange-site !default;
+$navbar-dark-disabled-color: rgba($orange-site, .25) !default;
+$navbar-dark-toggler-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='#{$navbar-dark-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !default;
+$navbar-dark-toggler-border-color: rgba($orange-site,
+1) !default;
+// $tooltip-arrow-color: $tooltip-bg !default;
